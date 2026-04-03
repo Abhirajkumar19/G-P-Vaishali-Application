@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardbackground">#7fe1ee</color>
+    <color name="mainbg">#344248</color>
+    <color name="cusbt">#7c470a</color>
+    <color name="addcl">#8b76fa</color>
+    <color name="border">#6288d0</color>
+    <color name="sembtn"> #b6495e</color>
+    <color name="admincardbg">#a8aab4</color>
+    <color name="Purple">#800080</color>
+    <color name="grey">#5D5A5A</color>
+    <color name="mainbac">#9eaaa0</color>
+    <color name="lavender">#8692f7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="gray">#808080</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="purple">#9C27B0</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorAccent">#42A5F5</color>
+    <color name="colorBackground">#F9FAFB</color>
+    <color name="cardbac">#E6E4FE</color>
+    <color name="userbc">#abd6ba</color>
+    <color name="adminbc">#677D6A</color>
+    <color name="edtbc">#ccd4e2</color>
+
+
+
+        <color name="colorPrimaryDark">#1976D2</color>
+        <color name="colorPrimaryLight">#BBDEFB</color>
+
+
+        <!-- Background Colors -->
+        <color name="background_light">#F5F7FA</color>
+        <color name="background_white">#FFFFFF</color>
+        <color name="background_card">#FFFFFF</color>
+
+
+        <!-- Text Colors -->
+        <color name="text_primary">#212121</color>
+        <color name="text_secondary">#757575</color>
+        <color name="text_hint">#9E9E9E</color>
+        <color name="text_white">#FFFFFF</color>
+        <color name="text_black">#000000</color>
+
+        <!-- Stat Card Colors -->
+        <color name="stat_blue_start">#2196F3</color>
+        <color name="stat_blue_end">#1976D2</color>
+        <color name="stat_green_start">#4CAF50</color>
+        <color name="stat_green_end">#388E3C</color>
+        <color name="stat_orange_start">#FF9800</color>
+        <color name="stat_orange_end">#F57C00</color>
+        <color name="stat_purple_start">#9C27B0</color>
+        <color name="stat_purple_end">#7B1FA2</color>
+
+        <!-- Icon Background Colors -->
+        <color name="icon_bg_blue">#BBDEFB</color>
+        <color name="icon_bg_green">#C8E6C9</color>
+        <color name="icon_bg_orange">#FFE0B2</color>
+        <color name="icon_bg_purple">#E1BEE7</color>
+        <color name="icon_bg_red">#FFCDD2</color>
+        <color name="icon_bg_yellow">#FFF9C4</color>
+
+        <!-- Icon Tint Colors -->
+        <color name="icon_blue">#2196F3</color>
+        <color name="icon_green">#4CAF50</color>
+        <color name="icon_orange">#FF9800</color>
+        <color name="icon_purple">#9C27B0</color>
+        <color name="icon_red">#F44336</color>
+        <color name="icon_yellow">#FFC107</color>
+        <color name="icon_gray">#9E9E9E</color>
+        <color name="icon_white">#FFFFFF</color>
+
+        <!-- Divider and Border Colors -->
+        <color name="divider">#E0E0E0</color>
+        <color name="border_light">#E0E0E0</color>
+        <color name="border_dark">#BDBDBD</color>
+
+        <!-- Shadow Colors -->
+        <color name="shadow_light">#1A000000</color>
+        <color name="shadow_medium">#33000000</color>
+        <color name="shadow_dark">#4D000000</color>
+
+        <!-- Overlay Colors -->
+        <color name="overlay_light">#4D000000</color>
+        <color name="overlay_medium">#80000000</color>
+        <color name="overlay_dark">#CC000000</color>
+
+        <!-- Department Card Colors -->
+        <color name="dept_cs">#2196F3</color>
+        <color name="dept_me">#4CAF50</color>
+        <color name="dept_ee">#FF9800</color>
+        <color name="dept_ec">#9C27B0</color>
+        <color name="dept_cv">#F44336</color>
+        <color name="dept_ctm">#FFC107</color>
+
+        <!-- Button Colors -->
+        <color name="button_blue">#2196F3</color>
+        <color name="button_blue_pressed">#1976D2</color>
+        <color name="button_green">#4CAF50</color>
+        <color name="button_red">#F44336</color>
+
+        <!-- Status Colors -->
+        <color name="success">#4CAF50</color>
+        <color name="error">#F44336</color>
+        <color name="warning">#FFC107</color>
+        <color name="info">#2196F3</color>
+
+        <!-- Gradient Colors for Hero Section -->
+        <color name="gradient_start">#4D000000</color>
+        <color name="gradient_end">#80000000</color>
+
+        <!-- Facility Item Background -->
+        <color name="facility_bg_normal">#F5F5F5</color>
+        <color name="facility_bg_pressed">#E0E0E0</color>
+
+</resources>

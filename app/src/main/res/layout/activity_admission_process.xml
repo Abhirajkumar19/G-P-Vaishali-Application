@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_marginTop="45dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/drawerlayout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradiantmain"
+        >
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp">
+            <!-- restyourcode -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cardCornerRadius="8dp"
+                    app:cardElevation="4dp"
+                    android:backgroundTint="@color/cardbac"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="20dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <!-- College Name -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Government Polytechnic Vaishali"
+                            android:textColor="#2B2B2B"
+                            android:textSize="24sp"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:padding="8dp" />
+
+                        <!-- College Location -->
+                        <TextView
+                            android:id="@+id/tvLocation"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Vaishali, Bihar, India - 844128"
+                            android:textSize="16sp"
+                            android:textColor="#555"
+                            android:gravity="center"
+                            android:paddingBottom="12dp" />
+
+                        <!-- About Section -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Eligibility"
+                            android:textStyle="bold"
+                            android:textColor="#1E88E5"
+                            android:textSize="20sp"
+                            android:layout_marginStart="5dp"
+                            android:paddingTop="8dp" />
+
+                        <TextView
+                            android:id="@+id/tvAbout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/admission1"
+                            android:textSize="15sp"
+                            android:textColor="@color/black"
+                            android:padding="4dp" />
+
+                        <!-- Vision -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Entrance Exam Required"
+                            android:textStyle="bold"
+                            android:textColor="#1E88E5"
+                            android:textSize="20sp"
+                            android:paddingTop="8dp" />
+
+                        <TextView
+                            android:id="@+id/tvVision"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="15sp"
+                            android:text="@string/admission2"
+                            android:textColor="@color/black"
+                            android:padding="4dp" />
+
+                        <!-- Mission -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Application Process "
+                            android:textStyle="bold"
+                            android:textColor="#1E88E5"
+                            android:textSize="20sp"
+                            android:paddingTop="8dp" />
+
+                        <TextView
+                            android:id="@+id/tvMission"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="15sp"
+                            android:text="@string/admission3"
+                            android:textColor="@color/black"
+                            android:padding="4dp" />
+
+                        <!-- Departments -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Counselling and Seat Allotment "
+                            android:textStyle="bold"
+                            android:textColor="#1E88E5"
+                            android:textSize="20sp"
+                            android:paddingTop="8dp" />
+
+                        <TextView
+                            android:id="@+id/tvDepartments"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="15sp"
+                            android:text="@string/admission4"
+                            android:textColor="@color/black"
+                            android:padding="4dp" />
+
+                        <!-- Facilities -->
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Document Verification and Fee Payment"
+                            android:textStyle="bold"
+                            android:textColor="#1E88E5"
+                            android:textSize="20sp"
+                            android:paddingTop="8dp" />
+
+                        <TextView
+                            android:id="@+id/tvFacilities"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="15sp"
+                            android:text="@string/admission5"
+                            android:textColor="@color/black"
+                            android:padding="4dp" />
+
+
+                        <!-- Button -->
+                        <Button
+                            android:id="@+id/btnContact"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Contact Us"
+                            android:backgroundTint="#1E88E5"
+                            android:textColor="#FFF"
+                            android:layout_gravity="center"
+                            android:padding="10dp"
+                            android:layout_marginTop="16dp"
+                            android:layout_marginBottom="35dp"/>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </FrameLayout>
+
+
+</LinearLayout>
+
+

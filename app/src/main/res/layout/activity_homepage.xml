@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_marginTop="45dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/drawerlayout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradiantmain"
+        >
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp">
+            <!-- restyourcode -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/sem1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="1st Year"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/sem2"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="2nd Year"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/sem3"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="3rd Year"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/white" />
+
+
+
+            </LinearLayout>
+
+
+
+        </ScrollView>
+
+    </FrameLayout>
+
+
+</LinearLayout>
+
+

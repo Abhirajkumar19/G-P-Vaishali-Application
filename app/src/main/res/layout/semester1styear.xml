@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:background="@color/mainbac"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/drawerlayout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="@color/mainbac"
+        android:background="@android:color/white">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp">
+            <!-- restyourcode -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <Button
+                    android:id="@+id/buttoncs1"
+                    android:layout_width="match_parent"
+                    android:layout_height="61dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/cs"
+                    android:background="@drawable/gradiant"
+                    app:backgroundTint="@null"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/buttonme1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/me"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    app:backgroundTint="@null"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/buttonec1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/ec"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/buttonee1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/ee"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    app:backgroundTint="@null"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/buttoncv1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/cv"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/buttonctm1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/ctm"
+                    app:backgroundTint="@null"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/gradiant"
+                    android:textAllCaps="false"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white" />
+
+            </LinearLayout>
+
+
+
+        </ScrollView>
+
+    </FrameLayout>
+
+
+</LinearLayout>
+
+

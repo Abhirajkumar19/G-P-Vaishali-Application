@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">SEMESTER 1</string>
+    <string name="text2">SEMESTER 2</string>
+    <string name="text3">SEMESTER 3</string>
+    <string name="text4">SEMESTER 4</string>
+    <string name="text5">SEMESTER 5</string>
+    <string name="text6">SEMESTER 6</string>
+    <string name="res">RESULT</string>
+    <string name="att">ATTENDANCE</string>
+    <string name="syl">SYLLABUS</string>
+
+    <string name="cs">COMPUTER SCIENCE</string>
+    <string name="me">MECHANICAL</string>
+    <string name="ec">ELECTRONICS</string>
+    <string name="ee">ELECTRICAL</string>
+    <string name="cv">CIVIL</string>
+    <string name="ctm">CONSTRUCTION TECHNOLOGY</string>
+    <string name="ld">LEATHER</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="welcomegpv">
+       Govt. Polytechnic, Vaishali was established by the act of Govt. of Bihar in the year 1960, constituted to work under Department of Science and Technology.
+
+Govt. Polytechnic, Vaishali is situated at the place of enlightenment of “Lord Gautam Buddha” and is a holy place where foot marks of “Lord Vishnu” is placed in the sacred “Vishnu Pad Mandir”.
+
+Vaishali presently offers a diploma courses in five streams of engineering, civil engg, Computer science and engineering, Electrical Engg. Electronics Engg. and Mechanical Engg. And also some vocational courses for employment generation such as IRG, CDTP and women industrial school.
+    </string>
+
+    <string name="principlemessage">
+
+        We welcome you to Government Polytechnic Vaishali. The aim of GPV is to provide unmatched qualitative education to develop the best that is hidden in student and to encourage them to explore the joy of learning. Globalization and increasing diversity in needs has generated an enhanced demand for competitive skills and here at GPV, our purpose is to provide the forum where such needs shall be fulfilled. Students at GPV are motivated to develop leadership skills and a through understanding of interdependence. Special emphasis is placed on the need to serve others while actively contributing to the college community and society as a whole. At GPV, we aspire to encourage students to believe in themselves, to give their very best, to reach great heights and they can.
+    </string>
+    <string name="Security">
+        Governemnt Polytechnic, Vaishlai is fully covered with CCTV camera and have dupited 24X7 security guard.
+    </string>
+    <string name="Department">
+        01. Computer Science Engg.
+        02. Mechanical Engg.
+        03. Electrical Engg.
+        04. Electronic Engg.
+        05. Civil Engg.
+        06. Construction Technology Management Engg.
+    </string>
+
+    <string name="SportsFacility">
+        For "Healthy Mind in Healthy Body,facilities for other outdoor and indoor games like Volleyball, Football, Cricket, Basketball, Badminton, Table Tennis, etc. are available.
+    </string>
+
+    <string name="TraningandPlacements">
+
+        Govt. Polytechnic Vaishali has the distinct advantage of having support base from institutions and organizations in India who would readily provide training expertise and placement avenues to its students. Every department is closely associated with the Industries.The Training and Placement cell of the Institute comprises of Professionals with long experience in evaluation, training and liaison with the real-life work places. The cell undertakes correspondence with prospective employers, arranges campus interviews, and prepares students for bringing the real-life situations outside the sheltered life of the Institute. Interaction of students with scientist, technologist and executives is arranged paving way to future career development.
+    </string>
+    <string name="Laboratries">
+        At Government polytechnic, Vaishali there are good infracture of laboratries like electronics lab, computer lab, civil lab, electrical lab, workshop. We have arranged lab equipment to all lab of best quality so that students can do their practical in well manner. We have dupited qualified lab instructors to make them understand about the use of each equipment and help them in their projects or tasks.
+    </string>
+
+    <string name="admission2">
+         Students must qualify the DCECE (Diploma Certificate Entrance Competitive Examination) conducted by the Bihar Combined Entrance Competitive Examination Board for admission.
+    </string>
+    <string name="admission1">
+        For first-year diploma admission, candidates must pass 10th class  from a recognized board. For lateral entry (2nd year), students must have ITI or equivalent qualification.
+    </string>
+    <string name="admission3">
+Eligible candidates need to fill out the application form and pay the required application fee to apply for admission.
+    </string>
+    <string name="admission4">
+After the entrance exam, students participate in the counselling process, where seats are allotted based on merit and rank.
+    </string>
+    <string name="admission5">
+  Selected candidates must submit documents (marksheet, admit card, Aadhaar, photos, etc.) and pay the admission fee at the college to confirm admission.
+    </string>
+    <!-- Full Subject Names -->
+    <string name="cs_full">Computer Science</string>
+    <string name="me_full">Mechanical Engineering</string>
+    <string name="ec_full">Electronics  Communication</string>
+    <string name="ee_full">Electrical Engineering</string>
+    <string name="cv_full">Civil Engineering</string>
+    <string name="ctm_full">Construction Technology</string>
+
+    <!-- Button Texts -->
+    <string name="back_to_main">Back to Main Menu</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="available_pdfs">Available PDFs</string>
+    <string name="no_pdfs">No PDFs available</string>
+
+    <!-- Messages -->
+    <string name="loading_pdfs">Loading PDFs...</string>
+
+</resources>
