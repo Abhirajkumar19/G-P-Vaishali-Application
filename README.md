@@ -62,10 +62,11 @@ The app provides an easy way for students and admins to manage college-related a
 
 ---
 
-📬 Contact
-Email: abhiraj19032007@gmail.com
-GitHub: https://github.com/Abhirajkumar19
-LinkedIn: https://www.linkedin.com/in/abhiraj-kumar-abhi
+## 📬 Contact
+
+- **Email:** abhiraj19032007@gmail.com  
+- **GitHub:** https://github.com/Abhirajkumar19  
+- **LinkedIn:** https://www.linkedin.com/in/abhiraj-kumar-abhi
 
 ---
 
