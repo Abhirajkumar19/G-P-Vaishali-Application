@@ -36,7 +36,8 @@ The app provides an easy way for students and admins to manage college-related a
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![WhatsApp Image 2026-04-02 at 17 05 38](https://github.com/user-attachments/assets/6d24bacf-e6d8-4a5a-bb45-31db0f19fe6f)
+
 
 Example:
 
