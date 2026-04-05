@@ -37,13 +37,11 @@ The app provides an easy way for students and admins to manage college-related a
 ## 📸 Screenshots
 
 ![WhatsApp Image 2026-04-02 at 17 05 38](https://github.com/user-attachments/assets/6d24bacf-e6d8-4a5a-bb45-31db0f19fe6f)
+![WhatsApp Image 2026-04-02 at 17 05 39](https://github.com/user-attachments/assets/6e34acf7-68dc-48a3-9b7d-96ee5f5de08d)
+![WhatsApp Image 2026-04-02 at 17 05 39 (1)](https://github.com/user-attachments/assets/052c3b2f-5eea-43e1-ba04-7c63436c9558)
 
 
-Example:
 
-* Login Page
-* Student Dashboard
-* Admin Panel
 
 ---
 
